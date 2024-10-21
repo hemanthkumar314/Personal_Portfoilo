@@ -40,7 +40,7 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing", {
       strings: [
-        "FrontEnd Developer",
+        "FullStack Developer",
         "B Tech Student",
         "Part time Cricketer"
       ],
@@ -51,7 +51,7 @@ $(document).ready(function () {
   
     var typed = new Typed(".typing-2", {
       strings: [
-        "FrontEnd Developer",
+        "FullStack Developer",
         "B Tech Student",
         "Part time Cricketer"
       ],
